@@ -1,0 +1,7 @@
+functions-framework==3.*
+opentelemetry-distro
+opentelemetry-exporter-otlp
+dynatrace-opentelemetry-gcf
+opentelemetry-api==1.21.0
+opentelemetry-sdk==1.21.0
+opentelemetry-instrumentation-logging

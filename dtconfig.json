@@ -1,0 +1,8 @@
+{
+    "Tenant": "xxx12345",
+    "ClusterID": 1231212131380,
+    "Connection": {
+      "BaseUrl": "https://xxx12345.live.dynatrace.com",
+      "AuthToken": "dt0a01.xxx"
+    }
+  }
